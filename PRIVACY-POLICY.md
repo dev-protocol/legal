@@ -70,6 +70,4 @@ Tokyo, Japan
 
 [support@frame00.com](mailto:support@frame00.com)
 
-
-
 Effective date of these Privacy Policy: 01/20/2023.

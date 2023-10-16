@@ -1,4 +1,4 @@
-By clicking here, I state that I have read and understood the terms and conditions. I acknowledge that if I violate any of these clauses, I will follow the termination section. I agree that the information provided for the eKYC process is trustworthy and consent to its usage to comply with the procedure dictated by the Anti-Money Laundering & Counter-Terrorism Financing Policy (“AML/CTF Policy”). 
+By clicking here, I state that I have read and understood the terms and conditions. I acknowledge that if I violate any of these clauses, I will follow the termination section. I agree that the information provided for the eKYC process is trustworthy and consent to its usage to comply with the procedure dictated by the Anti-Money Laundering & Counter-Terrorism Financing Policy (“AML/CTF Policy”).
 
 ---
 
@@ -134,7 +134,7 @@ We collect personal information that you voluntarily provide to us when you regi
 
 The personal information that we collect depends on the context of your interactions with us and the Website, the choices you make, and the products and features you use.
 
-The personal information we collect may include but is not limited to email addresses,  usernames, contact preferences, contact or authentication data, digital wallet ID, and other similar information.
+The personal information we collect may include but is not limited to email addresses, usernames, contact preferences, contact or authentication data, digital wallet ID, and other similar information.
 
 All personal information you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
 
@@ -178,6 +178,5 @@ Frame00 inc,
 Tokyo, Japan
 
 [support@frame00.com](mailto:support@frame00.com)
-
 
 Effective date of these Terms and Conditions: 08/30/2023.

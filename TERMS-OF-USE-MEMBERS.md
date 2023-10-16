@@ -1,4 +1,5 @@
 # Clubs - Terms and Conditions
+
 ## **for Members**
 
 Clubs is a platform where users can purchase memberships and tickets (the “Site”). These Terms of Service (the “Terms”) are between you and Frame00, Inc. (the “Company” or “we”). These Terms, together with any other applicable terms and guidelines incorporated by reference (the “Guidelines”), govern your access to and use of the Site. The Clubs Terms of Service (the “Terms”) require users who purchase membership rights or digital content in the form of NFTs (the “Membership Pass (NFT)”) on the Clubs Site platform operated by Frame00, Inc. (the “Company”) to agree to the Terms, Privacy Policy, and other related regulations in advance in order to use the Service.
@@ -270,6 +271,5 @@ Frame00 inc,
 Tokyo, Japan
 
 [support@frame00.com](mailto:support@frame00.com)
-
 
 The effective date of these Terms of Service is September 25, 2023
