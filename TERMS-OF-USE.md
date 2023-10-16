@@ -1,6 +1,6 @@
 By clicking here, I state that I have read and understood the terms and conditions. I acknowledge that if I violate any of these clauses, I will follow the termination section. I agree that the information provided for the eKYC process is trustworthy and consent to its usage to comply with the procedure dictated by the Anti-Money Laundering & Counter-Terrorism Financing Policy (“AML/CTF Policy”). 
 
-<hr />
+---
 
 # Clubs - Terms and Conditions
 
@@ -177,6 +177,7 @@ Frame00 inc,
 
 Tokyo, Japan
 
-<a href="mailto: support@frame00.com">support@frame00.com</a>
+[support@frame00.com](mailto:support@frame00.com)
+
 
 Effective date of these Terms and Conditions: 08/30/2023.
